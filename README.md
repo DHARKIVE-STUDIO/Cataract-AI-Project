@@ -41,3 +41,9 @@ In medical AI, "Accuracy" isn't enough; we focus on reliability:
 * **Data Analysis:** NumPy, Pandas
 * **Visualization:** Matplotlib, Seaborn
 
+## ⚠️ Disclaimer
+This project is for educational and research purposes only. It is intended to assist medical professionals, not to replace professional clinical diagnosis.
+
+---
+Maintained by **DHARKIVE-STUDIO**
+
